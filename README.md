@@ -23,7 +23,7 @@ _____
 ## 🚀 Preview
 
   <img 
-    src="laravelCalculatorGif.gif" 
+    src="gifLaravelCalculator.gif" 
     style="width: 80%;" 
   />
 
