@@ -19,5 +19,14 @@ ____
 * CSS  
 * Herd  
 
-## Demo
-![Laravel Calculator Demo](laravelCalculatorVideo.gif)
+_____
+## 🚀 Preview
+
+  <img 
+    src="laravelCalculatorGif.gif" 
+    style="width: 80%;" 
+  />
+
+Watch Full Demo on YouTube <a href="https://youtu.be/GyzchJWl3FY"> Here!
+</a>
+
