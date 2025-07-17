@@ -9,7 +9,7 @@ ____
 * Choose operator from dropdown menu  
 * Add two numbers  
 * Subtract two numbers  
-* Multiply two numbers  
+* Multiply two numbers   
 * Divide two numbers (with error check for division by zero)
 
 ____
@@ -27,6 +27,5 @@ _____
     style="width: 80%;" 
   />
 
-Watch Full Demo on YouTube <a href="https://youtu.be/GyzchJWl3FY"> Here!
-</a>
+#### 🎬 [Watch Full Demo on YouTube Here!](https://youtu.be/GyzchJWl3FY)
 
