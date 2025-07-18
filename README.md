@@ -27,5 +27,5 @@ _____
     style="width: 80%;" 
   />
 
-#### 🎬 [Watch Full Demo on YouTube Here!](https://youtu.be/GyzchJWl3FY)
+#### 🎬 [Watch Full Demo on YouTube!](https://youtu.be/GyzchJWl3FY)
 
