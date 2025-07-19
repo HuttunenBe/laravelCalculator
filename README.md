@@ -12,14 +12,6 @@ ____
 * Multiply two numbers   
 * Divide two numbers (with error check for division by zero)
 
-____
-
-🛠️ Tech Stack  
-* Laravel  
-* CSS  
-* Herd  
-
-_____
 ## 🚀 Preview
 
   <img 
@@ -28,4 +20,13 @@ _____
   />
 
 #### 🎬 [Watch Full Demo on YouTube!](https://youtu.be/GyzchJWl3FY)
+
+____
+
+🛠️ Tech Stack  
+* Laravel  
+* CSS  
+* Herd  
+
+
 
