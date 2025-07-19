@@ -5,7 +5,7 @@ A basic calculator built with Laravel that lets you perform four calculations: a
 
 ____
 
-✅ Features  
+## ✅ Features  
 * Choose operator from dropdown menu  
 * Add two numbers  
 * Subtract two numbers  
@@ -19,11 +19,11 @@ ____
     style="width: 80%;" 
   />
 
-#### 🎬 [Watch Full Demo on YouTube!](https://youtu.be/GyzchJWl3FY)
+### 🎬 [Watch Full Demo on YouTube!](https://youtu.be/GyzchJWl3FY)
 
 ____
 
-🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 * Laravel  
 * CSS  
 * Herd  
