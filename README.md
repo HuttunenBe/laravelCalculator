@@ -1,5 +1,5 @@
 # 📋  Laravel Basic Calculator  
-## 📘 Task Overview  
+## 📘 Task Overview   
 
 A basic calculator built with Laravel that lets you perform four calculations: addition, subtraction, multiplication and division. Just enter two numbers and pick the operation from a dropdown menu.
 
